@@ -7,3 +7,4 @@ train_data/*
 tmp/*
 *.ipynb
 !model.hdf5
+*requirements.txt
